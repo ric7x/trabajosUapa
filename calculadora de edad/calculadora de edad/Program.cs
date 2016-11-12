@@ -17,6 +17,7 @@ namespace calculadora_de_edad
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+            //ufff
         }
     }
 }
